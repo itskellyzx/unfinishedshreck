@@ -1,0 +1,24 @@
+h1 {
+  color: blueviolet;
+}
+
+p {
+  font-size: 1.5em;
+  color: #fe7f88;
+  background-image: none;
+  background-color: transparent;
+}
+
+div {
+  background-image: url("mdn_logo_only_color.png");
+}
+
+.catsandstars {
+  background-image: url("startransparent.gif"), url("catfront.png");
+  background-color: transparent;
+}
+
+border-radius: 0px;
+background: #ffffff;
+box-shadow:  17px 17px 34px #c7c7c7,
+             -17px -17px 34px #ffffff;
